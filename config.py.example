@@ -1,0 +1,6 @@
+"""
+Configure Your Email Settings Below
+"""
+sender_gmail = "example@gmail.com"
+sender_password = "PASSWORDGOESHERE"
+recipient_email =  "example@something.com" # I like to use a cellphone and get these as SMS (CELLPHONENUMBER@txt.att.net), but do what you want.
